@@ -1,14 +1,18 @@
 {
-  "name": "15_01_2022",
+  "name": "16_01_2022",
   "version": "1.0.0",
-  "description": "První REST API",
-  "main": "src/app.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Aldra1N",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^12.0.3",
     "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
